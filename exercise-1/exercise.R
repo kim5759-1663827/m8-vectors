@@ -4,10 +4,10 @@
 first.ten <- 10:20
 
 # Create a vector `next.ten` that has the values 21 through 30 in it (using the seq operator)
-next.ten <- seq(21,30)
+next.ten <- seq(21, 30)
 
 # Create a vector `all.numbers` by combining the vectors `first.ten` and `next.ten`
-all.numbers <- c(first.ten,next.ten)
+all.numbers <- c(first.ten, next.ten)
 
 # Create a variable `eleventh` that is equal to the 11th element in your vector `all.numbers`
 eleventh <- all.numbers[11]
